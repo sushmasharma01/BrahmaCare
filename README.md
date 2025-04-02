@@ -1,2 +1,2 @@
 # BrahmaCare
-A web application which connects doctor and patients over social media.
+A web application which connects doctor and patients over internet.
